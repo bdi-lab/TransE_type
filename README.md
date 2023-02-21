@@ -16,6 +16,7 @@ To run the code, the dataset should be located in "./data/[DATASET_NAME]" direct
 - type2id.txt: Each line is in the form of "type type_index". The first line indicates the number of types.
 
 [train_transe_type.py]
+
 Code for generating knowledge graph embeddings with entity type constraints.
 
 **Arguments**
