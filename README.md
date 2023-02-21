@@ -1,10 +1,6 @@
 Copyright: KAIST Big Data Intelligence Lab (https://bdi-lab.kaist.ac.kr/)
 
-"Knowledge Graph Embedding with Entity Type Constraints"
-
-Seunghwan Kong, Chanyoung Chung, Suheon Ju, and Joyce Jiyoung Whang
-
-Journal of KIISE, Sep. 2022
+Knowledge Graph Embedding with Entity Type Constraints, Seunghwan Kong, Chanyoung Chung, Suheon Ju, and Joyce Jiyoung Whang, Journal of KIISE, Sep. 2022
 
 All codes are written by Seunghwan Kong ([shkong@kaist.ac.kr](mailto:shkong@kaist.ac.kr)) and proofread by Chanyoung Chung ([chanyoung.chung@kaist.ac.kr](mailto:chanyoung.chung@kaist.ac.kr)).
 
