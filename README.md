@@ -4,7 +4,7 @@ Knowledge Graph Embedding with Entity Type Constraints, Seunghwan Kong, Chanyoun
 
 All codes are written by Seunghwan Kong ([shkong@kaist.ac.kr](mailto:shkong@kaist.ac.kr)) and proofread by Chanyoung Chung ([chanyoung.chung@kaist.ac.kr](mailto:chanyoung.chung@kaist.ac.kr)).
 
-[Data]
+### Data
 
 To run the code, the dataset should be located in "./data/[DATASET_NAME]" directory with the following files:
 
@@ -15,7 +15,7 @@ To run the code, the dataset should be located in "./data/[DATASET_NAME]" direct
 - triplets.txt: Each line is in the form of "head_entity relation tail_entity". The first line indicates the number of triplets.
 - type2id.txt: Each line is in the form of "type type_index". The first line indicates the number of types.
 
-[train_transe_type.py]
+### train_transe_type.py
 
 Code for generating knowledge graph embeddings with entity type constraints.
 
@@ -39,3 +39,6 @@ Code for generating knowledge graph embeddings with entity type constraints.
 
 - Mean rank, mean reciprocal rank, hit@1,3,10 of the trained model in every validation epoch
 
+### License
+
+Our codes are released under the CC BY-NC-SA 4.0 license.
